@@ -77,12 +77,6 @@
 
 ---
 
-### 📈 My Contribution History
-
-![Contribution Chart](https://ghchart.rshah.org/syedmuhammadhussain)
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
