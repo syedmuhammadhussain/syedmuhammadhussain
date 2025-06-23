@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on fullstack SaaS products with React, Next.js, Node.js, and Strapi.
+- 🔭 I am currently working on fullstack SaaS products with React, Next.js, Node.js, and Strapi.
 - 🧠 I enjoy learning and applying new technologies across frontend, backend, and cloud platforms.
-- 🌱 I’m expanding my expertise in **AI integration, microservices**, and scalable backend systems.
+- 🌱 I am expanding my expertise in **AI integration, microservices**, and scalable backend systems.
 - 💬 Ask me about **React, Angular, Supabase, Strapi, Docker, or TypeScript**.
 - 📫 How to reach me: [syedmuhammadhussain@gmail.com](mailto:syedmuhammadhussain@gmail.com)
 
@@ -29,6 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-DD0031?logo=angular&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
